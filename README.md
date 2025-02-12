@@ -10,9 +10,6 @@ This tutorial provides a hands-on introduction to PyTorch, a popular deep learni
 
 This tutorial explores the fundamental aspects of Finetuning Large Language Models for specific tasks or domains. Prior knowledge of standard LLM components (e.g. transformers, autoregression) is beneficial but optional when working through the notebooks as they assume minimal prior knowledge. This tutorial combines detailed analysis and development of essential LLM Finetuning concepts via a practical exercise. Other necessary components will be developed using PyTorch. As a result, the tutorial offers deep understanding and facilitates easy usage in future applications.
 
-**Prerequests:
-Please follow the instructions in the corresponding notebook to set up a Hugginface account prior to the session.**
-
 ## 3. Reinforcement Learning from Human Feedback
 *Author: Yasin Abbasi Yadkori*
 
